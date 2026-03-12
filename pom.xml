@@ -11,6 +11,7 @@
     <groupId>com.cdlicn</groupId>
     <artifactId>design_patterns</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>design_patterns</name>
     <description>design_patterns</description>
     <url/>
@@ -20,6 +21,7 @@
     <developers>
         <developer/>
     </developers>
+
     <scm>
         <connection/>
         <developerConnection/>
